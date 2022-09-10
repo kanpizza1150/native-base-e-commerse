@@ -1,9 +1,13 @@
-# NativeBase Expo Template
+# native-base-e-commerse
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+## Install
 
-## Usage
+```bash
+yarn install
+```
 
-```sh
-expo init my-app --template @native-base/expo-template
+## Start
+
+```bash
+yarn start
 ```
